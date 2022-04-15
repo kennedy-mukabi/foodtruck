@@ -1,0 +1,27 @@
+hello there!
+okay so i have the following in mind on learning a new skill "DevOps"
+i expect to take up a maximum of six montths to fully perfect 
+my plan is as follows
+
+week    concept     software1      software2 
+1       configure   Terraform       ansible
+2       version     git             github+gitlab
+3       package     docker          lambda
+4       deploy      jenkins         codeDeploy
+5       run         ECS             kubernets
+6       Monitor     Elk-stack       prometheus
+
+i have some background knowledge on git and Docker while the rest i'm green 
+
+i shall be documenting the dates and the relevant skills aquired during this period 
+in this same file as well as decorate my git hub account 
+
+i shall also come up with a biolerplate code that i'll be using throughout the process 
+
+i expect to be using vscodium as my editor because of its super cool features 
+
+
+after this skill learning process i expect to be able to fully manage software solutions
+and apply my PMP skills inorder to deliver creative and innovative software deliverables to whoever needss them 
+
+may God help ME 
